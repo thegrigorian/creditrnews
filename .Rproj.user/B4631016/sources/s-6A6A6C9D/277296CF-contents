@@ -1,0 +1,9 @@
+get_links("Debehams")
+get_articles("Debenhams")
+get_sentiment_plot("Debenhams")
+get_sentiment_report("Debenhams")
+get_wordcloud("Debenhams")
+get_words("Debenhams")
+get_words_tfidf("Debenhams")
+which_article("Debenhams")
+

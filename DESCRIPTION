@@ -1,0 +1,10 @@
+Package: creditrnews
+Type: Package
+Title: Company news analyzer
+Version: 0.1.0
+Author: Anna Alexandra Grigoryan
+Maintainer: Anna Alexandra Grigoryan <anna.alexandra.grigoryan@gmail.com>
+Description: Scrapes the most recent articles from Google by the company name and provides sentiment analysis.
+License: GPL-2
+Encoding: UTF-8
+RoxygenNote: 6.1.1
